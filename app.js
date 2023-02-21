@@ -19,3 +19,4 @@ const greet5 = require("./greet5");
 greet5.greet();
 greet5.jump();
 greet5.run();
+greet5.suma(5,6);
